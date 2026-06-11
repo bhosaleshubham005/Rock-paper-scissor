@@ -1,2 +1,4 @@
 # Rock-paper-scissor
-A basic web-based calculator built with HTML, CSS, and JavaScript. It performs fundamental arithmetic operations including addition, subtraction, multiplication, and division through an interactive user interface.
+
+A simple and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript. 
+Features responsive design, real-time score tracking, and dynamic game logic.
